@@ -6,7 +6,7 @@ It's designed to manage the sales data of a car dealership. The project aims to 
 
 Example from the project: Starting the discovery process by seeing employees and immidiate managers 
 
-![Employee Managers](https://github.com/MayCooper/car-dealership-sql-project/blob/main/employee_managers.png)
+![Employee Managers](main/employee_managers.png)
 
 The overall objective of the project is to analyze sales performance, inventory management, or customer trends related to electric vehicles in particular in order to inform decision-making and strategic planning for the car dealership or automotive business.
 
